@@ -9,7 +9,7 @@ They are listed bellow:
 Just a regular shader with a main texture and a normal map field.
 
 ### TexNormalRamp.shader 
-It works with a main texture, a normal map and custom color ramp texture. It has a toon aesthetic without outlines.
+It works with a main texture, a normal map and custom color ramp texture. It gives a toon-like aesthetic without outlines.
 
 ### TexNormalAtlas.shader
 An atlas voxel shader, it has a main texture and a normal map field.
